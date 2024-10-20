@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bahman-pro
+- 👋 Hi, I’m @Bahman
 - 👀 I’m interested in Coding and developing aplication
 - 🌱 I’m currently student at Computer Science collage and also learning Flutter
 - 📫 you can reach me by email: bahman28917@gmail.com
